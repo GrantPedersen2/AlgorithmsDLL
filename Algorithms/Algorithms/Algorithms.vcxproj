@@ -65,10 +65,14 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Algorithms.cpp" />
+    <ClCompile Include="HeapArray.cpp" />
     <ClCompile Include="Main.cpp" />
+    <ClCompile Include="WebsiteSyntexReferences.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Algorithms.h" />
+    <ClInclude Include="HeapArray.h" />
+    <ClInclude Include="Libraries.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

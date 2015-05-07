@@ -1,6 +1,6 @@
 #include"Algorithms.h"
 
-Algorithms * algorithms;
+Algorithms * algorithms = nullptr;
 
 int main(int * argc, char ** argv)
 {
